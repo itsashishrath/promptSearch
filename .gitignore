@@ -1,0 +1,5 @@
+.venv/
+db.sqlite3
+downloaded_resumes/
+resumes/
+resumeDownloader.py
